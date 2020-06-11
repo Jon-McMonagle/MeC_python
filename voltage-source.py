@@ -6,7 +6,7 @@ DESCRIPTION
 ===========
 This is 0-10V power supply (range depends on a board: Adafruit_MCP4725)
 There is also a fake display that takes the set voltage value and adds
-noise to it.  
+noise to it.  ADDED COMMENT TO TEST
 '''
 
 '''
